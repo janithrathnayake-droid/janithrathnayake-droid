@@ -1,4 +1,4 @@
-# Hi 👋, I'm Janith Rathnayake
+
 
 <h1 align="center">Hi 👋, I'm Janith Rathnayake</h1>
 <h3 align="center">Electrical & Electronic Engineering Undergraduate | University of Peradeniya</h3>
